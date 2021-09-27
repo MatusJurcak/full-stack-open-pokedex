@@ -30,6 +30,6 @@ jobs:
         uses: akhileshns/heroku-deploy@v3.12.12
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
-          heroku_app_name: "pokedex_lilemdzej" 
+          heroku_app_name: "pokedex-lilemdzej" 
           heroku_email: "jurcak.matus@gmail.com"
 
