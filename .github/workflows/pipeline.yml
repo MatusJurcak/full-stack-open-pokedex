@@ -34,4 +34,3 @@ jobs:
           heroku_email: jurcak.matus@gmail.com
           healthcheck: https://pokedex-lilemdzej.herokuapp.com/health
           checkstring: "ok"
-
